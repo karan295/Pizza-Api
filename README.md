@@ -4,6 +4,7 @@ In this pizza project i use 3 three api for different functionality
 are list and we can also use post method for create pizza list for user.
 
 database use : MongoDB
+Also use serializer and restframework
 
 2:- "ListFilterPizzaView": "http://127.0.0.1:8000/ListFilterPizzaView/" in this api all the information about the pizza are listed
 and post,delete and filter method is also use here in which user can delete the list and also use filter method and user can also know the single list information using id.
