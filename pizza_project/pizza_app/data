@@ -1,0 +1,33 @@
+create
+
+{
+        "Pizza_type": "Regular",
+        "Pizza_toppings": [
+{
+            "Name": "Onion"
+},
+{
+            "Name": "Tomato"
+}
+
+        ],
+        "Pizza_Size": "Medium"
+    }
+
+
+
+update
+
+{
+        "Pizza_type": "Regular",
+        "Pizza_toppings": [
+{
+            "Name": "Onion"
+},
+{
+            "Name": "Tomato"
+}
+
+        ],
+        "Pizza_Size": "Medium"
+    }
